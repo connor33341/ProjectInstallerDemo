@@ -1,0 +1,9 @@
+{
+    "name": "ProjectInstaller",
+    "owner": "connor33341",
+    "desc": "Tool used to install projects",
+    "run": "echo hello world",
+    "lisence": "",
+    "force-agree": true,
+    "agree-server": "https://projectinstaller.glitch.me/argeeserver/"
+}
